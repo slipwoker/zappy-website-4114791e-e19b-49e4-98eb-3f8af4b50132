@@ -1,0 +1,87 @@
+# חתן — Generative Engine Optimization Map
+
+> A young Israeli real estate development company focused on boutique projects, land deals, combination transactions, and urban renewal — built on long-term thinking, deep economic analysis, and precise planning. The brand identity is deliberately positioned as a modern development firm rather than a sales company, drawing visual and strategic inspiration from VC firms, architecture studios, and urban strategy consultancies. The tone is intelligent, measured, and professional — projecting quiet confidence without aggressive marketing or flashy real estate clichés. The company bridges classical real estate entrepreneurship with urban renewal, emphasizing systemic understanding of planning, finance, and regulation.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חתן היא חברת יזמות נדל״ן בוטיק ישראלית המתמחה בפינוי-בינוי, עסקאות קומבינציה ותכנון אסטרטגי. חשיבה לטווח ארוך, ניתוח כלכלי מעמיק ודיוק בכל שלב.
+
+### גישה
+https://example.com/approach
+הגישה של חתן משלבת ניתוח כלכלי קפדני, הבנה רגולטורית מעמיקה ותכנון מדויק. לא מכירות — יזמות אמיתית שמתחילה בהבנת המערכת כולה.
+
+### תחומי פעילות
+https://example.com/areas-of-activity
+מפינוי-בינוי ועסקאות קומבינציה ועד מכרזי יזמים ועסקאות קרקע — חתן פועלת בצמתים האסטרטגיים של שוק הנדל״ן הישראלי. גלו את תחומי הפעילות שלנו.
+
+### יומן
+https://example.com/journal
+יומן חתן הוא מרחב לניתוח מעמיק של מגמות תכנון, רגולציה ושוק. קריאה חיונית לכל מי שרוצה להבין את הכוחות האמיתיים שמניעים את ענף הנדל״ן בישראל.
+
+### פרויקטים
+https://example.com/projects
+כל פרויקט של חתן הוא תוצאה של תהליך יזמי מדוקדק — מאיתור הזדמנות ועד מימוש. עיינו בפרויקטי פינוי-בינוי ובוטיק שמגדירים מחדש את הסטנדרט.
+
+### צור קשר
+https://example.com/contact
+בעלי קרקע, שותפים פוטנציאליים או דיירים המעוניינים בפינוי-בינוי — חתן מזמינה אתכם לשיחה ישירה, מקצועית ומחויבת. צרו קשר עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חתן
+A young Israeli real estate development company focused on boutique projects, land deals, combination transactions, and urban renewal — built on long-term thinking, deep economic analysis, and precise planning. The brand identity is deliberately positioned as a modern development firm rather than a sales company, drawing visual and strategic inspiration from VC firms, architecture studios, and urban strategy consultancies. The tone is intelligent, measured, and professional — projecting quiet confidence without aggressive marketing or flashy real estate clichés. The company bridges classical real estate entrepreneurship with urban renewal, emphasizing systemic understanding of planning, finance, and regulation.
+
+## Target Audience
+- בעלי קרקע, אנשי מקצוע ושותפים אסטרטגיים
+- בעלי קרקע
+- שותפים אסטרטגיים
+- משקיעים בהתחדשות עירונית
+
+## Industry
+Real Estate Development
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
